@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @steve-z-seattle
+- 👋 Hi, there!
 - 🚀 I’m interested in natural language processing (NLP), reinforcement learning (RL), deep learning (DL), machine leanring (ML) and AI in general.
 
 <!---
